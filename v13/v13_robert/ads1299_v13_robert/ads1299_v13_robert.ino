@@ -1,3 +1,4 @@
+// 1kHz recording on 16 channels
 #include <SPI.h>
 #include "SdFat.h"
 #include "RingBuf.h"
